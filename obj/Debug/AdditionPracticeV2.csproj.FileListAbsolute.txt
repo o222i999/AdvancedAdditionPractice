@@ -1,0 +1,11 @@
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\bin\Debug\AdditionPracticeV2.exe.config
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\bin\Debug\AdditionPracticeV2.exe
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\bin\Debug\AdditionPracticeV2.pdb
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\obj\Debug\AdditionPracticeV2.csproj.AssemblyReference.cache
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\obj\Debug\AdditionPracticeV2.Form1.resources
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\obj\Debug\AdditionPracticeV2.Math.resources
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\obj\Debug\AdditionPracticeV2.Properties.Resources.resources
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\obj\Debug\AdditionPracticeV2.csproj.GenerateResource.cache
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\obj\Debug\AdditionPracticeV2.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\obj\Debug\AdditionPracticeV2.exe
+C:\Users\brand\Desktop\coding\AdditionPracticeV2\AdditionPracticeV2\obj\Debug\AdditionPracticeV2.pdb
